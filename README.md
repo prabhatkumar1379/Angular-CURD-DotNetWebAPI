@@ -1,5 +1,4 @@
 # Angular-CURD-DotNetWebAPI
-# Angular-CURD-DotNetWebAPI
 
 ## Steps to Create a New Angular App
 
